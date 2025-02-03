@@ -1,13 +1,14 @@
 # Humphrey "Hinzik" Kwok
 
-> Software Engineer | Mechanical Keyboard Designer | Maker
+> Software Engineer | Mechanical Keyboard Designer | Startup Founder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/humphreykwok)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:conact@hinzik.dev)
 [![blog.hinzik.dev](https://img.shields.io/badge/Blog-My_Memories-green)](https://blog.hinzik.dev/)
+[![hinzik.dev](https://img.shields.io/badge/Portfolio-My_Works-orange)](https://hinzik.dev/)
 
 
-## 🛠️ Technical Stack
+## Technical Stack 🛠️
 ```javascript
 const skills = {
     languages: ['JavaScript', 'TypeScript'],
@@ -19,21 +20,21 @@ const skills = {
 };
 ```
 
-## 🚀 Key Projects
+## Key Projects 🚀
 
 ### QuizNuts
 Open-source online accessment platform
-- **Website**: [View Live](https:/quiznuts.hinzik.dev/)
+- **Website**: [View Live](https://quiznuts.hinzik.dev/)
 
 ### WYSIWYG-form
 Visualised online form editor
-- **Website**: [View Live](https:/form.hinzik.dev/)
+- **Website**: [View Live](https://form.hinzik.dev/)
 
 ### Frusta Remastered
 Remaster Version of an keypad I released in 2020
-- **Website**: [View Live](https:/frusta.hinzik.dev/)
+- **Website**: [View Live](https://frusta.hinzik.dev/)
 
-## 📬 Connect With Me
+## Connect With Me 📬
 - **LinkedIn**: [in/humphreykwok](https://linkedin.com/in/humphreykwok/)
 - **Email**:  contact@hinzik.dev
 - **Portfolio**: [hinzik.dev](https://hinzik.dev/)
