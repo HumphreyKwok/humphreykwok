@@ -7,6 +7,12 @@
 [![blog.hinzik.dev](https://img.shields.io/badge/Blog-My_Memories-green)](https://blog.hinzik.dev/)
 [![hinzik.dev](https://img.shields.io/badge/Portfolio-My_Works-orange)](https://hinzik.dev/)
 
+Currently working on an open-source fullstack development course - The POWA Project
+
+![Banner](https://github.com/HumphreyKwok/powa/blob/main/public/images/banner.png)
+
+- **GitHub**: [View The Source Code](https://github.com/HumphreyKwok/powa)
+- **Website**: [View Live](https://powa.hinzik.dev/)
 
 ## Technical Stack 🛠️
 ```javascript
