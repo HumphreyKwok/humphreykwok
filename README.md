@@ -9,7 +9,7 @@
 
 Currently working on an open-source fullstack development course - The POWA Project
 
-![Banner](https://github.com/HumphreyKwok/powa/blob/main/public/images/banner.png)
+[<img src="https://github.com/HumphreyKwok/powa/blob/main/public/images/banner.png">](https://powa.hinzik.dev)
 
 - **GitHub**: [View The Source Code](https://github.com/HumphreyKwok/powa)
 - **Website**: [View Live](https://powa.hinzik.dev/)
