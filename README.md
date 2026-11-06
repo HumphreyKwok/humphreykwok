@@ -1,46 +1,13 @@
 # Humphrey "Hinzik" Kwok
 
-> Software Engineer | Mechanical Keyboard Designer | Startup Founder
+Software Engineer | DevOps Engineer · Hong Kong
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/humphreykwok)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:conact@hinzik.dev)
-[![blog.hinzik.dev](https://img.shields.io/badge/Blog-My_Memories-green)](https://blog.hinzik.dev/)
-[![hinzik.dev](https://img.shields.io/badge/Portfolio-My_Works-orange)](https://hinzik.dev/)
+I build applied-AI orchestration, frontend infrastructure, and Kubernetes platforms. Most of my work is for the public and finance sectors, so it is not publicly visible. Anonymised summaries are on [hinzik.dev](https://www.hinzik.dev/).
 
-Currently working on an open-source fullstack development course - The POWA Project
+- **Applied AI**: agent orchestration, RAG pipelines, ASR integration
+- **Frontend**: React, GSAP, Motion, Figma
+- **Backend**: TypeScript, oRPC, PostgreSQL
+- **Platform**: Linux, Docker, Kubernetes, Helm, Istio, LGTM, AWS
+- **Hardware**: mechanical keyboard design with KiCad, Fusion 360, and KeyShot
 
-[<img src="https://github.com/HumphreyKwok/powa/blob/main/public/images/banner.png">](https://powa.hinzik.dev)
-
-- **GitHub**: [View The Source Code](https://github.com/HumphreyKwok/powa)
-- **Website**: [View Live](https://powa.hinzik.dev/)
-
-## Technical Stack 🛠️
-```javascript
-const skills = {
-    languages: ['JavaScript', 'TypeScript'],
-    frameworks: ['React', 'Next.js', 'Node.js', 'Express.js'],
-    databaseTechnologies: ['Prisma ORM', 'PostgreSQL', 'MongoDB'],
-    devOps: ['Docker', 'Kubernetes', 'GitHub Actions'],
-    platforms: ['GitHub', 'GoogleCloud', 'Vercel'],
-    keyboardDesignTools: ['KiCAD', 'Fusion 360', 'KeyShot']
-};
-```
-
-## Key Projects 🚀
-
-### QuizNuts
-Open-source online accessment platform
-- **Website**: [View Live](https://quiznuts.hinzik.dev/)
-
-### WYSIWYG-form
-Visualised online form editor
-- **Website**: [View Live](https://form.hinzik.dev/)
-
-### Frusta Remastered
-Remaster Version of an keypad I released in 2020
-- **Website**: [View Live](https://frusta.hinzik.dev/)
-
-## Connect With Me 📬
-- **LinkedIn**: [in/humphreykwok](https://linkedin.com/in/humphreykwok/)
-- **Email**:  contact@hinzik.dev
-- **Portfolio**: [hinzik.dev](https://hinzik.dev/)
+[hinzik.dev](https://www.hinzik.dev/) · [LinkedIn](https://www.linkedin.com/in/humphreykwok/) · [contact@hinzik.dev](mailto:contact@hinzik.dev)
