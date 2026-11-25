@@ -11,3 +11,7 @@ I build applied-AI orchestration, frontend infrastructure, and Kubernetes platfo
 - **Hardware**: mechanical keyboard design with KiCad, Fusion 360, and KeyShot
 
 [hinzik.dev](https://www.hinzik.dev/) · [LinkedIn](https://www.linkedin.com/in/humphreykwok/) · [contact@hinzik.dev](mailto:contact@hinzik.dev)
+
+If you wonder where have my contributions gone, meanwhile my working gitlab...
+
+![working-gitlab-contribution-graph](working-gitlab-contribution-graph.png)
